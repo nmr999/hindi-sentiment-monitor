@@ -1,0 +1,5 @@
+{
+ "model": "google/muril-base-cased",
+ "test_macro_f1": 0.9746018271485165,
+ "note": "single run on Colab T4, same 70/15/15 split (seed 42), best epoch chosen on dev"
+}

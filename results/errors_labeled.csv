@@ -1,0 +1,22 @@
+text,label,pred,script,cause
+यह प्रोडक्ट मेरी उम्मीदों पर खरा उतरा,positive,negative,devanagari,rare or unseen sentiment words
+इस निर्णय से कार्य में कोई सुधार नहीं हुआ,negative,neutral,devanagari,negation / absence phrasing
+मुझे इसमें कोई दिक्कत नहीं हुई,positive,neutral,devanagari,negation / absence phrasing
+मुझे इसमें कोई प्रेरणा नहीं मिली,negative,neutral,devanagari,negation / absence phrasing
+ऑनलाइन प्लेटफ़ॉर्म की सुविधा सीमित रही,negative,positive,devanagari,"mild / implicit sentiment, weak cue"
+इस किताब में कुछ नया नहीं था,negative,neutral,devanagari,negation / absence phrasing
+उसके शब्द दिल छू लेने वाले थे।,positive,negative,devanagari,rare or unseen sentiment words
+इस ऐप ने मेरी मदद नहीं की,negative,positive,devanagari,negation / absence phrasing
+यह ऐप उपयोगी नहीं है,negative,positive,devanagari,negation / absence phrasing
+प्रस्तुति में स्पष्टता की कमी रही,negative,positive,devanagari,"mild / implicit sentiment, weak cue"
+बिजली कटौती ने बहुत परेशानी दी।,negative,positive,devanagari,rare or unseen sentiment words
+इस योजना से मुझे आशा से ज्यादा लाभ हुआ।,positive,negative,devanagari,rare or unseen sentiment words
+यह जूता टाइट है।,negative,neutral,devanagari,ambiguous label or factual statement
+मुझे इसकी पैकिंग अच्छी लगी,positive,negative,devanagari,"mild / implicit sentiment, weak cue"
+यह निर्णय मेरे लिए सरल था,neutral,positive,devanagari,ambiguous label or factual statement
+मेरी बहन ने अपनी पढ़ाई पूरी की है।,positive,negative,devanagari,ambiguous label or factual statement
+इस व्यक्ति की मेहनत सफल हुई है।,positive,negative,devanagari,ambiguous label or factual statement
+मुझे इसमें कोई उत्साह नहीं दिखा,negative,neutral,devanagari,negation / absence phrasing
+मुझे यह स्थिति बहुत तटस्थ लगी।,neutral,negative,devanagari,rare or unseen sentiment words
+इस उपलब्धि पर मुझे गर्व महसूस हो रहा है।,positive,neutral,devanagari,rare or unseen sentiment words
+आज का खाना बेहद बेस्वाद था।,negative,positive,devanagari,rare or unseen sentiment words

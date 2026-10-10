@@ -1,0 +1,32 @@
+{
+ "n_errors": 21,
+ "n_test": 375,
+ "counts": {
+  "rare or unseen sentiment words": 7,
+  "negation / absence phrasing": 7,
+  "ambiguous label or factual statement": 4,
+  "mild / implicit sentiment, weak cue": 3
+ },
+ "examples": {
+  "ambiguous label or factual statement": {
+   "text": "यह जूता टाइट है।",
+   "label": "negative",
+   "pred": "neutral"
+  },
+  "mild / implicit sentiment, weak cue": {
+   "text": "ऑनलाइन प्लेटफ़ॉर्म की सुविधा सीमित रही",
+   "label": "negative",
+   "pred": "positive"
+  },
+  "negation / absence phrasing": {
+   "text": "इस निर्णय से कार्य में कोई सुधार नहीं हुआ",
+   "label": "negative",
+   "pred": "neutral"
+  },
+  "rare or unseen sentiment words": {
+   "text": "यह प्रोडक्ट मेरी उम्मीदों पर खरा उतरा",
+   "label": "positive",
+   "pred": "negative"
+  }
+ }
+}

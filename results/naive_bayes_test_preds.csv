@@ -1,0 +1,376 @@
+text,label,clean,script,pred
+यह प्रोडक्ट मेरी उम्मीदों पर खरा उतरा,positive,यह प्रोडक्ट मेरी उम्मीदों पर खरा उतरा,devanagari,negative
+यह अनुभव तटस्थ रहा।,neutral,यह अनुभव तटस्थ रहा ।,devanagari,neutral
+आपकी मदद के लिए दिल से धन्यवाद।,positive,आपकी मदद के लिए दिल से धन्यवाद ।,devanagari,positive
+आपकी सोच सकारात्मक दिशा दिखाती है।,positive,आपकी सोच सकारात्मक दिशा दिखाती है ।,devanagari,positive
+इस विषय में अभी मेरी कोई ठोस धारणा नहीं बन पाई है।,neutral,इस विषय में अभी मेरी कोई ठोस धारणा नहीं बन पाई है ।,devanagari,neutral
+आपकी सहायता से मुश्किल आसान हुई।,positive,आपकी सहायता से मुश्किल आसान हुई ।,devanagari,positive
+यह फिल्म समय और पैसे की पूरी बर्बादी थी।,negative,यह फिल्म समय और पैसे की पूरी बर्बादी थी ।,devanagari,negative
+इस फिल्म का अंत निराशाजनक था,negative,इस फिल्म का अंत निराशाजनक था,devanagari,negative
+वह अनुभव बेहद सुखद रहा।,positive,वह अनुभव बेहद सुखद रहा ।,devanagari,negative
+मुझे इससे कोई खास भावना नहीं हुई।,neutral,मुझे इससे कोई खास भावना नहीं हुई ।,devanagari,neutral
+मुझे वहाँ की अव्यवस्था से निराशा हुई।,negative,मुझे वहाँ की अव्यवस्था से निराशा हुई ।,devanagari,negative
+मुझे यह प्रस्ताव अस्वीकार्य लगा,negative,मुझे यह प्रस्ताव अस्वीकार्य लगा,devanagari,negative
+यह फैसला मेरे लिए सामान्य था।,neutral,यह फैसला मेरे लिए सामान्य था ।,devanagari,neutral
+यह निर्णय मेरे खिलाफ है।,negative,यह निर्णय मेरे खिलाफ है ।,devanagari,negative
+इस सेवा से मैं संतुष्ट हूं,positive,इस सेवा से मैं संतुष्ट हूं,devanagari,neutral
+मुझे यह नई नीति समझ नहीं आ रही।,negative,मुझे यह नई नीति समझ नहीं आ रही ।,devanagari,negative
+यह प्रकृति का नजारा बहुत शांत और मनमोहक है।,positive,यह प्रकृति का नजारा बहुत शांत और मनमोहक है ।,devanagari,positive
+मुझे इसमें कोई आकर्षण नहीं मिला।,neutral,मुझे इसमें कोई आकर्षण नहीं मिला ।,devanagari,neutral
+मैं रोज़ाना सफाई करता हूं।,neutral,मैं रोज़ाना सफाई करता हूं ।,devanagari,neutral
+मैं इस फिल्म के बारे में और जानना चाहता हूँ।,neutral,मैं इस फिल्म के बारे में और जानना चाहता हूँ ।,devanagari,neutral
+उसका व्यवहार हर किसी को असहज महसूस कराता है।,negative,उसका व्यवहार हर किसी को असहज महसूस कराता है ।,devanagari,negative
+इस अवसर का लाभ उठाना चाहिए,positive,इस अवसर का लाभ उठाना चाहिए,devanagari,positive
+मैं रोज़ाना अपने दोस्तों से मिलता हूं।,neutral,मैं रोज़ाना अपने दोस्तों से मिलता हूं ।,devanagari,neutral
+सेवा का अनुभव संतोषजनक था,positive,सेवा का अनुभव संतोषजनक था,devanagari,negative
+तुम्हारा स्नेह प्रेरणा देता है।,positive,तुम्हारा स्नेह प्रेरणा देता है ।,devanagari,positive
+तुम्हारे साथ बिताया समय हमेशा याद रहेगा।,positive,तुम्हारे साथ बिताया समय हमेशा याद रहेगा ।,devanagari,positive
+यह अनुभव साधारण रहा।,neutral,यह अनुभव साधारण रहा ।,devanagari,neutral
+यह निर्णय पूरी तरह व्यर्थ रहा।,negative,यह निर्णय पूरी तरह व्यर्थ रहा ।,devanagari,negative
+मुझे इससे कोई आपत्ति नहीं है।,neutral,मुझे इससे कोई आपत्ति नहीं है ।,devanagari,neutral
+वह फिल्म देखना सुखद अनुभव था।,positive,वह फिल्म देखना सुखद अनुभव था ।,devanagari,positive
+मुझे यह स्थिति बहुत असहनीय लग रही है।,negative,मुझे यह स्थिति बहुत असहनीय लग रही है ।,devanagari,negative
+आपका समर्थन मेरे लिए बहुत मायने रखता है।,positive,आपका समर्थन मेरे लिए बहुत मायने रखता है ।,devanagari,positive
+यह यात्रा अविस्मरणीय रही।,positive,यह यात्रा अविस्मरणीय रही ।,devanagari,positive
+इस विषय पर कोई विचार नहीं बना पाया हूं।,neutral,इस विषय पर कोई विचार नहीं बना पाया हूं ।,devanagari,neutral
+मुझे इससे कोई उत्साह नहीं मिला।,neutral,मुझे इससे कोई उत्साह नहीं मिला ।,devanagari,neutral
+उसका बर्ताव नकारात्मकता से भरा हुआ था।,negative,उसका बर्ताव नकारात्मकता से भरा हुआ था ।,devanagari,negative
+मुझे वहाँ की सफाई पसंद नहीं आई।,negative,मुझे वहाँ की सफाई पसंद नहीं आई ।,devanagari,negative
+मुझे इस होटल में खाने की गुणवत्ता से शिकायत है।,negative,मुझे इस होटल में खाने की गुणवत्ता से शिकायत है ।,devanagari,negative
+यह पल अनमोल है।,positive,यह पल अनमोल है ।,devanagari,positive
+यह प्रोडक्ट उपयोगी है,positive,यह प्रोडक्ट उपयोगी है,devanagari,negative
+तुम्हारे विचार सुनकर अच्छा लगा।,positive,तुम्हारे विचार सुनकर अच्छा लगा ।,devanagari,positive
+आपकी सहायता अत्यंत लाभकारी रही।,positive,आपकी सहायता अत्यंत लाभकारी रही ।,devanagari,positive
+मुझे इसमें कोई राय व्यक्त नहीं करनी है।,neutral,मुझे इसमें कोई राय व्यक्त नहीं करनी है ।,devanagari,neutral
+यह निर्णय बहुत ही असंतोषजनक साबित हुआ।,negative,यह निर्णय बहुत ही असंतोषजनक साबित हुआ ।,devanagari,negative
+मुझे वहाँ का अनुभव अच्छा नहीं लगा।,negative,मुझे वहाँ का अनुभव अच्छा नहीं लगा ।,devanagari,negative
+मुझे इसमें कोई नयापन नहीं दिखा।,neutral,मुझे इसमें कोई नयापन नहीं दिखा ।,devanagari,neutral
+मुझे इसमें कोई खास रुचि नहीं हुई।,neutral,मुझे इसमें कोई खास रुचि नहीं हुई ।,devanagari,neutral
+इस पर सोचने की अभी जरूरत है।,neutral,इस पर सोचने की अभी जरूरत है ।,devanagari,neutral
+आपकी सहायता से विश्वास बढ़ता है।,positive,आपकी सहायता से विश्वास बढ़ता है ।,devanagari,positive
+यह निर्णय बेकार था।,negative,यह निर्णय बेकार था ।,devanagari,negative
+खाना स्वाद में बेहतरीन था,positive,खाना स्वाद में बेहतरीन था,devanagari,positive
+यह अनुभव पूरी तरह निराशाजनक रहा।,negative,यह अनुभव पूरी तरह निराशाजनक रहा ।,devanagari,negative
+यह कंप्यूटर बहुत पुराना और धीमा है।,negative,यह कंप्यूटर बहुत पुराना और धीमा है ।,devanagari,negative
+तुम्हारे मुस्कराते चेहरे को देखना ही सुकून देता है।,positive,तुम्हारे मुस्कराते चेहरे को देखना ही सुकून देता है ।,devanagari,positive
+इस मुद्दे पर मेरी सोच अधूरी ही है।,neutral,इस मुद्दे पर मेरी सोच अधूरी ही है ।,devanagari,neutral
+यह फैसला अनुचित था,negative,यह फैसला अनुचित था,devanagari,negative
+यह यात्रा बहुत आनंददायक थी,positive,यह यात्रा बहुत आनंददायक थी,devanagari,positive
+आपकी मुस्कान सुकून देती है।,positive,आपकी मुस्कान सुकून देती है ।,devanagari,positive
+इस मुद्दे पर कुछ भी कहना उचित नहीं समझता।,neutral,इस मुद्दे पर कुछ भी कहना उचित नहीं समझता ।,devanagari,neutral
+इस निर्णय से कार्य में कोई सुधार नहीं हुआ,negative,इस निर्णय से कार्य में कोई सुधार नहीं हुआ,devanagari,neutral
+यह सेवा पूरी तरह असफल रही।,negative,यह सेवा पूरी तरह असफल रही ।,devanagari,negative
+आपकी सलाह मेरे लिए अत्यंत लाभकारी रही।,positive,आपकी सलाह मेरे लिए अत्यंत लाभकारी रही ।,devanagari,positive
+इस पर विचार करना मेरे लिए आसान नहीं है।,neutral,इस पर विचार करना मेरे लिए आसान नहीं है ।,devanagari,neutral
+आज शनिवार है।,neutral,आज शनिवार है ।,devanagari,positive
+यह किताब ठीक-ठाक है।,neutral,यह किताब ठीक-ठाक है ।,devanagari,neutral
+मौसम आज सुहावना है,positive,मौसम आज सुहावना है,devanagari,neutral
+आपका आदर मेरे लिए बहुत मायने रखता है।,positive,आपका आदर मेरे लिए बहुत मायने रखता है ।,devanagari,positive
+आपकी मदद मेरे लिए अमूल्य है।,positive,आपकी मदद मेरे लिए अमूल्य है ।,devanagari,positive
+तुम्हारे सहयोग ने हर मुश्किल को आसान कर दिया।,positive,तुम्हारे सहयोग ने हर मुश्किल को आसान कर दिया ।,devanagari,positive
+फिल्म देखने का अनुभव यादगार रहा,positive,फिल्म देखने का अनुभव यादगार रहा,devanagari,positive
+मुझे इससे कोई खास अनुभूति नहीं।,neutral,मुझे इससे कोई खास अनुभूति नहीं ।,devanagari,neutral
+उसकी बातों से मुझे गुस्सा आया।,negative,उसकी बातों से मुझे गुस्सा आया ।,devanagari,negative
+मुझे इस मोबाइल की कीमत बहुत ज्यादा लगी।,negative,मुझे इस मोबाइल की कीमत बहुत ज्यादा लगी ।,devanagari,negative
+मैं इस जगह के इतिहास के बारे में जानना चाहता हूँ।,neutral,मैं इस जगह के इतिहास के बारे में जानना चाहता हूँ ।,devanagari,neutral
+इस सेवा से मैं असंतुष्ट हूं,negative,इस सेवा से मैं असंतुष्ट हूं,devanagari,negative
+यह किताब ज्ञानवर्धक है,positive,यह किताब ज्ञानवर्धक है,devanagari,positive
+आपकी मदद से आत्मविश्वास बढ़ा।,positive,आपकी मदद से आत्मविश्वास बढ़ा ।,devanagari,positive
+मेरी उम्र पैंतीस साल है।,neutral,मेरी उम्र पैंतीस साल है ।,devanagari,positive
+यह निर्णय मुझे बहुत निराश कर गया।,negative,यह निर्णय मुझे बहुत निराश कर गया ।,devanagari,negative
+आपका यह काम सराहनीय है।,positive,आपका यह काम सराहनीय है ।,devanagari,positive
+यह निर्णय मेरे लिए नुकसानदायक साबित हुआ।,negative,यह निर्णय मेरे लिए नुकसानदायक साबित हुआ ।,devanagari,negative
+मुझे यह बात अच्छी नहीं लगी।,negative,मुझे यह बात अच्छी नहीं लगी ।,devanagari,negative
+मुझे यह प्रस्तुति उबाऊ लगी।,negative,मुझे यह प्रस्तुति उबाऊ लगी ।,devanagari,negative
+मुझे यह यात्रा बहुत पसंद आई,positive,मुझे यह यात्रा बहुत पसंद आई,devanagari,negative
+इस विषय में मुझे कोई दिलचस्पी नहीं है।,neutral,इस विषय में मुझे कोई दिलचस्पी नहीं है ।,devanagari,neutral
+मुझे इसमें कोई दिक्कत नहीं हुई,positive,मुझे इसमें कोई दिक्कत नहीं हुई,devanagari,neutral
+मुझे इस विषय पर कोई भावना नहीं है।,neutral,मुझे इस विषय पर कोई भावना नहीं है ।,devanagari,neutral
+यह अनुभव बहुत ही खराब था।,negative,यह अनुभव बहुत ही खराब था ।,devanagari,negative
+यह सेवा एकदम निराशाजनक थी।,negative,यह सेवा एकदम निराशाजनक थी ।,devanagari,negative
+तुम्हारी मुस्कान मन को नई उम्मीद देती है।,positive,तुम्हारी मुस्कान मन को नई उम्मीद देती है ।,devanagari,positive
+मैं इस व्यक्ति से निराश हूं।,negative,मैं इस व्यक्ति से निराश हूं ।,devanagari,negative
+आपकी तारीफ से ऊर्जा मिलती है।,positive,आपकी तारीफ से ऊर्जा मिलती है ।,devanagari,positive
+सेवा का स्तर संतोषजनक रहा,positive,सेवा का स्तर संतोषजनक रहा,devanagari,negative
+यह सेवा पूरी तरह असफल साबित हुई।,negative,यह सेवा पूरी तरह असफल साबित हुई ।,devanagari,negative
+मैं इस मामले में कोई टिप्पणी नहीं करूंगा।,neutral,मैं इस मामले में कोई टिप्पणी नहीं करूंगा ।,devanagari,neutral
+आज मैंने एक बहुत अच्छी किताब पढ़ी।,positive,आज मैंने एक बहुत अच्छी किताब पढ़ी ।,devanagari,positive
+आज मैंने एक अच्छी जगह देखी।,positive,आज मैंने एक अच्छी जगह देखी ।,devanagari,positive
+इस मुद्दे पर मेरी स्थिति तटस्थ ही बनी हुई है।,neutral,इस मुद्दे पर मेरी स्थिति तटस्थ ही बनी हुई है ।,devanagari,neutral
+यह कंप्यूटर बहुत धीमा और परेशानी वाला है।,negative,यह कंप्यूटर बहुत धीमा और परेशानी वाला है ।,devanagari,negative
+यह सेवा इतनी घटिया थी कि मुझे खेद हुआ।,negative,यह सेवा इतनी घटिया थी कि मुझे खेद हुआ ।,devanagari,negative
+उनकी मदद सराहनीय थी,positive,उनकी मदद सराहनीय थी,devanagari,positive
+मुझे इसमें कोई प्रेरणा नहीं मिली,negative,मुझे इसमें कोई प्रेरणा नहीं मिली,devanagari,neutral
+आपकी मुस्कान दिल को प्रसन्न करती है।,positive,आपकी मुस्कान दिल को प्रसन्न करती है ।,devanagari,positive
+उसकी बातें इतनी तीखी थीं कि सुनना मुश्किल था।,negative,उसकी बातें इतनी तीखी थीं कि सुनना मुश्किल था ।,devanagari,negative
+मुझे उस अनुभव से निराशा हुई।,negative,मुझे उस अनुभव से निराशा हुई ।,devanagari,negative
+तुम्हारे शब्दों में जो सच्चाई है वह दिल को छू जाती है।,positive,तुम्हारे शब्दों में जो सच्चाई है वह दिल को छू जाती है ।,devanagari,positive
+आपकी तारीफ से मन को खुशी मिलती है।,positive,आपकी तारीफ से मन को खुशी मिलती है ।,devanagari,positive
+मैं रोज़ाना अपने पड़ोसियों से मिलता हूं।,neutral,मैं रोज़ाना अपने पड़ोसियों से मिलता हूं ।,devanagari,neutral
+मैं इस किताब को दोबारा पढ़ना चाहूँगा।,neutral,मैं इस किताब को दोबारा पढ़ना चाहूँगा ।,devanagari,neutral
+तुम्हारे विचारों की गहराई ने मुझे सोचने पर मजबूर कर दिया।,positive,तुम्हारे विचारों की गहराई ने मुझे सोचने पर मजबूर कर दिया ।,devanagari,positive
+मुझे इससे कोई असर नहीं।,neutral,मुझे इससे कोई असर नहीं ।,devanagari,neutral
+आपका स्वागत है।,positive,आपका स्वागत है ।,devanagari,positive
+तुम्हारी मेहनत प्रेरणादायक है।,positive,तुम्हारी मेहनत प्रेरणादायक है ।,devanagari,positive
+वह यात्रा बहुत प्रेरणादायक रही।,positive,वह यात्रा बहुत प्रेरणादायक रही ।,devanagari,positive
+यह निर्णय पूरी तरह से असफल साबित हुआ।,negative,यह निर्णय पूरी तरह से असफल साबित हुआ ।,devanagari,negative
+आपकी यह सफलता मुझे प्रसन्न करती है।,positive,आपकी यह सफलता मुझे प्रसन्न करती है ।,devanagari,positive
+तुम्हारे साथ बिताया हर पल मुझे यादगार लगता है और दिल को सुकून देता है।,positive,तुम्हारे साथ बिताया हर पल मुझे यादगार लगता है और दिल को सुकून देता है ।,devanagari,positive
+मुझे इस मुद्दे पर कोई ठोस प्रतिक्रिया नहीं है।,neutral,मुझे इस मुद्दे पर कोई ठोस प्रतिक्रिया नहीं है ।,devanagari,neutral
+मैं रोज़ाना अपने आत्मविश्वास को बढ़ाने की कोशिश करता हूं।,neutral,मैं रोज़ाना अपने आत्मविश्वास को बढ़ाने की कोशिश करता हूं ।,devanagari,neutral
+यह सॉफ्टवेयर बहुत बग्स से भरा है।,negative,यह सॉफ्टवेयर बहुत बग्स से भरा है ।,devanagari,negative
+मुझे यह फैसला गलत लगता है।,negative,मुझे यह फैसला गलत लगता है ।,devanagari,negative
+इस पर मेरी कोई स्पष्ट राय नहीं है।,neutral,इस पर मेरी कोई स्पष्ट राय नहीं है ।,devanagari,neutral
+यह अनुभव पूरी तरह बेकार रहा।,negative,यह अनुभव पूरी तरह बेकार रहा ।,devanagari,negative
+मैं रोज़ाना अपने दिल की आवाज़ सुनता हूं।,neutral,मैं रोज़ाना अपने दिल की आवाज़ सुनता हूं ।,devanagari,neutral
+आपकी तारीफ से आत्मबल बढ़ता है।,positive,आपकी तारीफ से आत्मबल बढ़ता है ।,devanagari,positive
+मैं रोज़ाना अपने भाई-बहन के साथ खेलता हूं।,neutral,मैं रोज़ाना अपने भाई-बहन के साथ खेलता हूं ।,devanagari,neutral
+मुझे आज का खाना पसंद नहीं आया।,negative,मुझे आज का खाना पसंद नहीं आया ।,devanagari,negative
+उसकी तीखी नजरों ने मुझे बहुत असहज कर दिया।,negative,उसकी तीखी नजरों ने मुझे बहुत असहज कर दिया ।,devanagari,negative
+आपकी सोच सदा सकारात्मक ऊर्जा से भरपूर है।,positive,आपकी सोच सदा सकारात्मक ऊर्जा से भरपूर है ।,devanagari,positive
+इस विषय पर मेरी कोई सोच नहीं है।,neutral,इस विषय पर मेरी कोई सोच नहीं है ।,devanagari,neutral
+तुम्हारी सकारात्मकता ने मुश्किल घड़ी में मेरा हाथ थामा।,positive,तुम्हारी सकारात्मकता ने मुश्किल घड़ी में मेरा हाथ थामा ।,devanagari,positive
+यह यात्रा सुखद रही।,positive,यह यात्रा सुखद रही ।,devanagari,positive
+ऑनलाइन प्लेटफ़ॉर्म की सुविधा सीमित रही,negative,ऑनलाइन प्लेटफ़ॉर्म की सुविधा सीमित रही,devanagari,negative
+यह किताब बहुत प्रेरणादायक है।,positive,यह किताब बहुत प्रेरणादायक है ।,devanagari,positive
+मुझे इसमें कोई नई बात नहीं दिखी।,neutral,मुझे इसमें कोई नई बात नहीं दिखी ।,devanagari,neutral
+आपकी मदद मेरे लिए संबल बनी।,positive,आपकी मदद मेरे लिए संबल बनी ।,devanagari,positive
+यह फिल्म एकदम घटिया थी।,negative,यह फिल्म एकदम घटिया थी ।,devanagari,negative
+आपके विचार सुनकर अच्छा लगा।,positive,आपके विचार सुनकर अच्छा लगा ।,devanagari,positive
+मैं रोज़ाना अपने शिक्षक का आभार मानता हूं।,neutral,मैं रोज़ाना अपने शिक्षक का आभार मानता हूं ।,devanagari,neutral
+इस विषय में कुछ भी कहना मेरे लिए कठिन है।,neutral,इस विषय में कुछ भी कहना मेरे लिए कठिन है ।,devanagari,neutral
+इस किताब में कुछ नया नहीं था,negative,इस किताब में कुछ नया नहीं था,devanagari,neutral
+मुझे यह नई नीति समझ में नहीं आई।,negative,मुझे यह नई नीति समझ में नहीं आई ।,devanagari,negative
+यह दवा काम नहीं कर रही।,negative,यह दवा काम नहीं कर रही ।,devanagari,negative
+आपकी मदद अमूल्य है।,positive,आपकी मदद अमूल्य है ।,devanagari,positive
+आपकी सोच से हमेशा सकारात्मकता मिलती है।,positive,आपकी सोच से हमेशा सकारात्मकता मिलती है ।,devanagari,positive
+मुझे इसमें कोई विचार नहीं है।,neutral,मुझे इसमें कोई विचार नहीं है ।,devanagari,neutral
+इस पर कोई अंतिम निर्णय लेना जल्दबाज़ी होगी।,neutral,इस पर कोई अंतिम निर्णय लेना जल्दबाज़ी होगी ।,devanagari,neutral
+उसका व्यव्हार अस्वीकृत था।,negative,उसका व्यव्हार अस्वीकृत था ।,devanagari,negative
+वह सेवा समय पर और उत्तम थी।,positive,वह सेवा समय पर और उत्तम थी ।,devanagari,negative
+उसके शब्द दिल छू लेने वाले थे।,positive,उसके शब्द दिल छू लेने वाले थे ।,devanagari,positive
+मुझे इस बारे में कोई विचार नहीं है।,neutral,मुझे इस बारे में कोई विचार नहीं है ।,devanagari,neutral
+आपकी सोच से नई प्रेरणा मिलती है।,positive,आपकी सोच से नई प्रेरणा मिलती है ।,devanagari,positive
+तुम्हारे विचारों से मैं प्रेरित हूं।,positive,तुम्हारे विचारों से मैं प्रेरित हूं ।,devanagari,positive
+आपकी सहायता ने इस कार्य को सफल बनाया।,positive,आपकी सहायता ने इस कार्य को सफल बनाया ।,devanagari,positive
+यह सेवा इतनी खराब थी कि मुझे निराशा हुई।,negative,यह सेवा इतनी खराब थी कि मुझे निराशा हुई ।,devanagari,negative
+इस शहर का माहौल बहुत जीवंत है।,positive,इस शहर का माहौल बहुत जीवंत है ।,devanagari,positive
+आपकी उपस्थिति ने माहौल को खुशनुमा बना दिया।,positive,आपकी उपस्थिति ने माहौल को खुशनुमा बना दिया ।,devanagari,positive
+आपकी मदद से यह सब आसान हो गया।,positive,आपकी मदद से यह सब आसान हो गया ।,devanagari,positive
+यह सीट बहुत असहज है।,negative,यह सीट बहुत असहज है ।,devanagari,negative
+यह अनुभव सुखद था।,positive,यह अनुभव सुखद था ।,devanagari,negative
+आपके साथ समय बिताना सुखद अनुभव रहा।,positive,आपके साथ समय बिताना सुखद अनुभव रहा ।,devanagari,positive
+उसका तिरस्कार भरा व्यवहार दिल को गहरे तक चोट पहुँचा गया।,negative,उसका तिरस्कार भरा व्यवहार दिल को गहरे तक चोट पहुँचा गया ।,devanagari,negative
+इस ऐप ने मेरी मदद नहीं की,negative,इस ऐप ने मेरी मदद नहीं की,devanagari,positive
+मुझे इसमें कोई उत्साह नहीं हुआ।,neutral,मुझे इसमें कोई उत्साह नहीं हुआ ।,devanagari,neutral
+मुझे इस मुद्दे पर कोई विशेष भावना नहीं है।,neutral,मुझे इस मुद्दे पर कोई विशेष भावना नहीं है ।,devanagari,neutral
+फैसले को लेकर कुछ अस्पष्टता बनी हुई है,neutral,फैसले को लेकर कुछ अस्पष्टता बनी हुई है,devanagari,neutral
+मौसम आज ठीक-ठाक है।,neutral,मौसम आज ठीक-ठाक है ।,devanagari,neutral
+सेवा का स्तर सामान्य था,neutral,सेवा का स्तर सामान्य था,devanagari,neutral
+यह ऐप उपयोगी नहीं है,negative,यह ऐप उपयोगी नहीं है,devanagari,positive
+दीवार पर घड़ी लगी है।,neutral,दीवार पर घड़ी लगी है ।,devanagari,neutral
+यह जानकारी सामान्य लग रही है।,neutral,यह जानकारी सामान्य लग रही है ।,devanagari,neutral
+मैं रोज़ाना डायरी लिखता हूं।,neutral,मैं रोज़ाना डायरी लिखता हूं ।,devanagari,neutral
+उसके व्यवहार से मैं नाराज हूं।,negative,उसके व्यवहार से मैं नाराज हूं ।,devanagari,negative
+प्रस्तुति में स्पष्टता की कमी रही,negative,प्रस्तुति में स्पष्टता की कमी रही,devanagari,positive
+बिजली कटौती ने बहुत परेशानी दी।,negative,बिजली कटौती ने बहुत परेशानी दी ।,devanagari,negative
+इस पर फैसला लेना अभी सही नहीं होगा।,neutral,इस पर फैसला लेना अभी सही नहीं होगा ।,devanagari,neutral
+आपकी सलाह ने मुझे सही रास्ता दिखाया।,positive,आपकी सलाह ने मुझे सही रास्ता दिखाया ।,devanagari,positive
+मुझे आपकी सलाह ने हिम्मत दी।,positive,मुझे आपकी सलाह ने हिम्मत दी ।,devanagari,positive
+आपका साथ हमेशा सुखद रहता है।,positive,आपका साथ हमेशा सुखद रहता है ।,devanagari,positive
+मुझे वहाँ की स्थिति खराब लगी।,negative,मुझे वहाँ की स्थिति खराब लगी ।,devanagari,negative
+यह फिल्म इतनी खराब थी कि मैं किसी को नहीं सुझाऊंगा।,negative,यह फिल्म इतनी खराब थी कि मैं किसी को नहीं सुझाऊंगा ।,devanagari,negative
+ऑफर में कोई खास आकर्षण नहीं दिखा,neutral,ऑफर में कोई खास आकर्षण नहीं दिखा,devanagari,neutral
+वह शो बहुत प्रेरणादायक था।,positive,वह शो बहुत प्रेरणादायक था ।,devanagari,positive
+वह सेवा बहुत उम्दा रही।,positive,वह सेवा बहुत उम्दा रही ।,devanagari,negative
+ऑनलाइन ऑर्डर करने में परेशानी हुई,negative,ऑनलाइन ऑर्डर करने में परेशानी हुई,devanagari,negative
+मुझे इसमें कोई नई जानकारी नहीं मिली,neutral,मुझे इसमें कोई नई जानकारी नहीं मिली,devanagari,neutral
+यह अनुभव बेहद दुखदायी था।,negative,यह अनुभव बेहद दुखदायी था ।,devanagari,negative
+उसकी कठोरता ने मुझे बहुत दुखी किया।,negative,उसकी कठोरता ने मुझे बहुत दुखी किया ।,devanagari,negative
+वह हादसा मेरी यादों में एक कड़वी घटना बनकर रह गया।,negative,वह हादसा मेरी यादों में एक कड़वी घटना बनकर रह गया ।,devanagari,negative
+आपका सहयोग मेरे लिए अनमोल है।,positive,आपका सहयोग मेरे लिए अनमोल है ।,devanagari,positive
+यह जीत हमारे लिए गौरव की बात है।,positive,यह जीत हमारे लिए गौरव की बात है ।,devanagari,positive
+मुझे इससे कोई खास प्रतिक्रिया नहीं हुई।,neutral,मुझे इससे कोई खास प्रतिक्रिया नहीं हुई ।,devanagari,neutral
+मुझे इस मोबाइल की बैटरी लाइफ से निराशा हुई।,negative,मुझे इस मोबाइल की बैटरी लाइफ से निराशा हुई ।,devanagari,negative
+यह अनुभव मेरे लिए बहुत सुखद था।,positive,यह अनुभव मेरे लिए बहुत सुखद था ।,devanagari,positive
+आपकी मदद से आत्मबल बढ़ता है।,positive,आपकी मदद से आत्मबल बढ़ता है ।,devanagari,positive
+मैं इस शोर से परेशान हूं।,negative,मैं इस शोर से परेशान हूं ।,devanagari,negative
+यह अनुभव पूरी तरह असफल रहा।,negative,यह अनुभव पूरी तरह असफल रहा ।,devanagari,negative
+आपका सहयोग मेरे लिए प्रेरणा का स्रोत है।,positive,आपका सहयोग मेरे लिए प्रेरणा का स्रोत है ।,devanagari,positive
+इस प्रश्न पर मेरी कोई प्रतिक्रिया नहीं है।,neutral,इस प्रश्न पर मेरी कोई प्रतिक्रिया नहीं है ।,devanagari,neutral
+तुम्हारा आभार व्यक्त करता हूं।,positive,तुम्हारा आभार व्यक्त करता हूं ।,devanagari,positive
+यह अनुभव एकदम व्यर्थ था।,negative,यह अनुभव एकदम व्यर्थ था ।,devanagari,negative
+यह निर्णय मेरे विरुद्ध है।,negative,यह निर्णय मेरे विरुद्ध है ।,devanagari,negative
+इस विषय पर मेरी राय स्पष्ट नहीं है इसलिए मैं कुछ भी कहने से बचूंगा।,neutral,इस विषय पर मेरी राय स्पष्ट नहीं है इसलिए मैं कुछ भी कहने से बचूंगा ।,devanagari,neutral
+मुझे उसकी बातों से निराशा हुई।,negative,मुझे उसकी बातों से निराशा हुई ।,devanagari,negative
+इस योजना से मुझे आशा से ज्यादा लाभ हुआ।,positive,इस योजना से मुझे आशा से ज्यादा लाभ हुआ ।,devanagari,negative
+तुम्हारी मदद के बिना यह काम संभव नहीं था।,positive,तुम्हारी मदद के बिना यह काम संभव नहीं था ।,devanagari,positive
+यह घटना कष्टकारी रही।,negative,यह घटना कष्टकारी रही ।,devanagari,negative
+मुझे यह स्थिति बहुत डरावनी लग रही है।,negative,मुझे यह स्थिति बहुत डरावनी लग रही है ।,devanagari,negative
+उसकी आलोचना ने मेरे आत्म-सम्मान को चोट पहुँचाई।,negative,उसकी आलोचना ने मेरे आत्म-सम्मान को चोट पहुँचाई ।,devanagari,negative
+मेरा इस विषय पर कोई राय नहीं है।,neutral,मेरा इस विषय पर कोई राय नहीं है ।,devanagari,neutral
+मुझे यह प्रोडक्ट बहुत महंगा लगा।,negative,मुझे यह प्रोडक्ट बहुत महंगा लगा ।,devanagari,negative
+यह त्योहार का माहौल बहुत जीवंत था।,positive,यह त्योहार का माहौल बहुत जीवंत था ।,devanagari,positive
+मुझे इस विषय पर कोई उत्सुकता नहीं थी।,neutral,मुझे इस विषय पर कोई उत्सुकता नहीं थी ।,devanagari,neutral
+तुम्हारी मुस्कान प्यारी है।,positive,तुम्हारी मुस्कान प्यारी है ।,devanagari,positive
+यह सेवा बेहद असंतोषजनक साबित हुई।,negative,यह सेवा बेहद असंतोषजनक साबित हुई ।,devanagari,negative
+यह जगह स्वर्ग जैसी है।,positive,यह जगह स्वर्ग जैसी है ।,devanagari,positive
+यह सफलता मेरे सपनों को साकार करती है।,positive,यह सफलता मेरे सपनों को साकार करती है ।,devanagari,positive
+यह खुशी मेरे चेहरे पर मुस्कान ले आती है।,positive,यह खुशी मेरे चेहरे पर मुस्कान ले आती है ।,devanagari,positive
+यह उत्पाद मेरी अपेक्षाओं पर खरा नहीं उतरा।,negative,यह उत्पाद मेरी अपेक्षाओं पर खरा नहीं उतरा ।,devanagari,negative
+यह सेवा अनुभव बहुत खराब रहा।,negative,यह सेवा अनुभव बहुत खराब रहा ।,devanagari,negative
+यह सेवा पूरी तरह विफल साबित हुई।,negative,यह सेवा पूरी तरह विफल साबित हुई ।,devanagari,negative
+यह जूता टाइट है।,negative,यह जूता टाइट है ।,devanagari,positive
+यह अनुभव अत्यंत असफल रहा।,negative,यह अनुभव अत्यंत असफल रहा ।,devanagari,negative
+इस विषय पर टिप्पणी करना मेरे लिए कठिन है।,neutral,इस विषय पर टिप्पणी करना मेरे लिए कठिन है ।,devanagari,neutral
+मुझे यह उपहार बेकार लगा।,negative,मुझे यह उपहार बेकार लगा ।,devanagari,negative
+मुझे इसकी पैकिंग अच्छी लगी,positive,मुझे इसकी पैकिंग अच्छी लगी,devanagari,negative
+मुझे इस यात्रा में आनंद आया,positive,मुझे इस यात्रा में आनंद आया,devanagari,positive
+आपकी मदद ने मेरे जीवन में सकारात्मक बदलाव लाया।,positive,आपकी मदद ने मेरे जीवन में सकारात्मक बदलाव लाया ।,devanagari,positive
+मुझे यह काम करने में बहुत दिक्कत हो रही है।,negative,मुझे यह काम करने में बहुत दिक्कत हो रही है ।,devanagari,negative
+इस होटल में सुविधाएं कम थीं,negative,इस होटल में सुविधाएं कम थीं,devanagari,negative
+यह यात्रा पूरी तरह असफल थी।,negative,यह यात्रा पूरी तरह असफल थी ।,devanagari,negative
+मुझे इसमें कोई खासियत नहीं दिखी।,neutral,मुझे इसमें कोई खासियत नहीं दिखी ।,devanagari,neutral
+यह सेवा पूरी तरह घटिया थी।,negative,यह सेवा पूरी तरह घटिया थी ।,devanagari,negative
+आपका सहयोग मेरे लिए उत्साह का स्रोत है।,positive,आपका सहयोग मेरे लिए उत्साह का स्रोत है ।,devanagari,positive
+यह निर्णय मेरे लिए सरल था,neutral,यह निर्णय मेरे लिए सरल था,devanagari,negative
+कल बारिश होगी या नहीं पता नहीं।,neutral,कल बारिश होगी या नहीं पता नहीं ।,devanagari,neutral
+वह सेवा प्रशंसनीय रही।,positive,वह सेवा प्रशंसनीय रही ।,devanagari,positive
+यह निर्णय पूरी तरह असंवेदनशील था।,negative,यह निर्णय पूरी तरह असंवेदनशील था ।,devanagari,negative
+उनके शब्द दिल को छू गए।,positive,उनके शब्द दिल को छू गए ।,devanagari,positive
+मैं रोज़ाना संगीत सुनता हूं।,neutral,मैं रोज़ाना संगीत सुनता हूं ।,devanagari,neutral
+मुझे यह आवाज़ परेशान करती है।,negative,मुझे यह आवाज़ परेशान करती है ।,devanagari,negative
+इस मुद्दे पर किसी निष्कर्ष पर पहुँचना अभी मुश्किल है।,neutral,इस मुद्दे पर किसी निष्कर्ष पर पहुँचना अभी मुश्किल है ।,devanagari,neutral
+उसकी कटुता ने मेरे मन को तोड़ दिया।,negative,उसकी कटुता ने मेरे मन को तोड़ दिया ।,devanagari,negative
+उसका व्यवहार न सिर्फ अपमानजनक बल्कि निराशाजनक भी रहा।,negative,उसका व्यवहार न सिर्फ अपमानजनक बल्कि निराशाजनक भी रहा ।,devanagari,negative
+यह यात्रा औसत रही।,neutral,यह यात्रा औसत रही ।,devanagari,negative
+यह रेस्तरां अद्भुत खाना परोसता है,positive,यह रेस्तरां अद्भुत खाना परोसता है,devanagari,positive
+यह फिल्म बहुत निराशाजनक थी।,negative,यह फिल्म बहुत निराशाजनक थी ।,devanagari,negative
+वह फिल्म देखकर मन खुश हुआ।,positive,वह फिल्म देखकर मन खुश हुआ ।,devanagari,positive
+मुझे यह खेल बहुत उबाऊ लगा।,negative,मुझे यह खेल बहुत उबाऊ लगा ।,devanagari,negative
+मैं इस समस्या से जूझ रहा हूं।,negative,मैं इस समस्या से जूझ रहा हूं ।,devanagari,neutral
+मुझे इस पर कुछ नहीं कहना।,neutral,मुझे इस पर कुछ नहीं कहना ।,devanagari,neutral
+मुझे यह व्यवस्था परेशान करती है।,negative,मुझे यह व्यवस्था परेशान करती है ।,devanagari,negative
+मुझे इसमें कोई नवीनता नजर नहीं आई।,neutral,मुझे इसमें कोई नवीनता नजर नहीं आई ।,devanagari,neutral
+तुम्हारे शब्द सुकूनदायक हैं।,positive,तुम्हारे शब्द सुकूनदायक हैं ।,devanagari,positive
+यह ऐप मेरी उम्मीदों पर खरा उतरा,positive,यह ऐप मेरी उम्मीदों पर खरा उतरा,devanagari,negative
+मैं इस बात से बहुत निराश हूं।,negative,मैं इस बात से बहुत निराश हूं ।,devanagari,negative
+यह सेवा पूरी तरह बेकार थी।,negative,यह सेवा पूरी तरह बेकार थी ।,devanagari,negative
+मुझे इसमें कोई भावना नहीं हुई।,neutral,मुझे इसमें कोई भावना नहीं हुई ।,devanagari,neutral
+तुम्हारे स्नेह की ऊष्मा से मन प्रसन्न हो जाता है।,positive,तुम्हारे स्नेह की ऊष्मा से मन प्रसन्न हो जाता है ।,devanagari,positive
+मुझे इसमें कोई विशेष भावनाएँ नहीं हुईं।,neutral,मुझे इसमें कोई विशेष भावनाएँ नहीं हुईं ।,devanagari,neutral
+यह यात्रा थकानभरी रही।,negative,यह यात्रा थकानभरी रही ।,devanagari,negative
+आपकी मदद से आत्मविश्वास बढ़ता है।,positive,आपकी मदद से आत्मविश्वास बढ़ता है ।,devanagari,positive
+यह कंपनी की नीति बहुत निराशाजनक है।,negative,यह कंपनी की नीति बहुत निराशाजनक है ।,devanagari,negative
+यह निर्णय अत्यधिक निराशाजनक रहा।,negative,यह निर्णय अत्यधिक निराशाजनक रहा ।,devanagari,negative
+आपका तोहफा मेरे लिए बहुत खास है।,positive,आपका तोहफा मेरे लिए बहुत खास है ।,devanagari,positive
+इस अनुभव ने मुझे अंदर से सशक्त किया।,positive,इस अनुभव ने मुझे अंदर से सशक्त किया ।,devanagari,positive
+यह कार्य निराशाजनक रहा।,negative,यह कार्य निराशाजनक रहा ।,devanagari,negative
+मेरी बहन ने अपनी पढ़ाई पूरी की है।,positive,मेरी बहन ने अपनी पढ़ाई पूरी की है ।,devanagari,negative
+मैं इस बात से बहुत क्रोधित हूं।,negative,मैं इस बात से बहुत क्रोधित हूं ।,devanagari,negative
+मुझे इससे कोई प्रभाव नहीं पड़ा।,neutral,मुझे इससे कोई प्रभाव नहीं पड़ा ।,devanagari,neutral
+यह नया उपन्यास बहुत रोमांचक है।,positive,यह नया उपन्यास बहुत रोमांचक है ।,devanagari,positive
+इस व्यक्ति की मेहनत सफल हुई है।,positive,इस व्यक्ति की मेहनत सफल हुई है ।,devanagari,positive
+यह फिल्म अत्यंत असंतोषजनक रही।,negative,यह फिल्म अत्यंत असंतोषजनक रही ।,devanagari,negative
+तुम्हारी ईमानदारी देखकर मन में सम्मान का भाव जागता है।,positive,तुम्हारी ईमानदारी देखकर मन में सम्मान का भाव जागता है ।,devanagari,positive
+वह प्रस्तुति बहुत प्रभावशाली रही।,positive,वह प्रस्तुति बहुत प्रभावशाली रही ।,devanagari,positive
+मैं बहुत थक गया हूं।,negative,मैं बहुत थक गया हूं ।,devanagari,negative
+इस पर सोचने के लिए मुझे थोड़ा और समय चाहिए।,neutral,इस पर सोचने के लिए मुझे थोड़ा और समय चाहिए ।,devanagari,neutral
+तुम्हारी सादगी और सच्चाई दिल को बहुत भाती है।,positive,तुम्हारी सादगी और सच्चाई दिल को बहुत भाती है ।,devanagari,positive
+यह फिल्म निराशाजनक और बेमतलब थी।,negative,यह फिल्म निराशाजनक और बेमतलब थी ।,devanagari,negative
+मैं इस किताब को अपने दोस्त को सुझाऊँगा।,neutral,मैं इस किताब को अपने दोस्त को सुझाऊँगा ।,devanagari,neutral
+आपकी सोच सदा सकारात्मक प्रेरणा देती है।,positive,आपकी सोच सदा सकारात्मक प्रेरणा देती है ।,devanagari,positive
+मुझे इसमें कोई आकर्षण नहीं दिखा,neutral,मुझे इसमें कोई आकर्षण नहीं दिखा,devanagari,neutral
+तुम्हारी मुस्कान ने आज पूरे दिन को खूबसूरत बना दिया।,positive,तुम्हारी मुस्कान ने आज पूरे दिन को खूबसूरत बना दिया ।,devanagari,positive
+तुम्हारे साथ बिताया समय मेरी सबसे प्यारी यादों में शामिल है।,positive,तुम्हारे साथ बिताया समय मेरी सबसे प्यारी यादों में शामिल है ।,devanagari,positive
+मुझे इससे कोई फ़र्क नहीं पड़ता।,neutral,मुझे इससे कोई फ़र्क नहीं पड़ता ।,devanagari,neutral
+यह स्थिति बिल्कुल सामान्य है।,neutral,यह स्थिति बिल्कुल सामान्य है ।,devanagari,negative
+मुझे इसमें कुछ अलग अनुभव नहीं हुआ।,neutral,मुझे इसमें कुछ अलग अनुभव नहीं हुआ ।,devanagari,neutral
+यह सेवा बेहद असफल रही।,negative,यह सेवा बेहद असफल रही ।,devanagari,negative
+यह योजना एकदम नाकाम रही।,negative,यह योजना एकदम नाकाम रही ।,devanagari,negative
+इस पर विचार करने का अभी सही समय नहीं है।,neutral,इस पर विचार करने का अभी सही समय नहीं है ।,devanagari,neutral
+मुझे इस विषय में कोई रुचि नहीं है।,neutral,मुझे इस विषय में कोई रुचि नहीं है ।,devanagari,neutral
+यह सेवा बेहद असंतोषजनक थी।,negative,यह सेवा बेहद असंतोषजनक थी ।,devanagari,negative
+आपकी मुस्कान से मन को प्रसन्नता मिलती है।,positive,आपकी मुस्कान से मन को प्रसन्नता मिलती है ।,devanagari,positive
+मुझे इसमें कोई उत्साह नहीं दिखा,negative,मुझे इसमें कोई उत्साह नहीं दिखा,devanagari,neutral
+उसकी नकारात्मक बातें सुनकर आत्मविश्वास डगमगाने लगता है।,negative,उसकी नकारात्मक बातें सुनकर आत्मविश्वास डगमगाने लगता है ।,devanagari,positive
+इस पर बोलना मेरे लिए उपयुक्त नहीं होगा।,neutral,इस पर बोलना मेरे लिए उपयुक्त नहीं होगा ।,devanagari,neutral
+तुम्हारी विनम्रता दिल को बहुत भा गई।,positive,तुम्हारी विनम्रता दिल को बहुत भा गई ।,devanagari,positive
+आपके साथ बिताया समय यादगार रहा।,positive,आपके साथ बिताया समय यादगार रहा ।,devanagari,positive
+मुझे इसमें कोई उत्तेजना महसूस नहीं हुई।,neutral,मुझे इसमें कोई उत्तेजना महसूस नहीं हुई ।,devanagari,neutral
+उसका स्वर इतना कटु था कि मैं कुछ कह ही नहीं पाया।,negative,उसका स्वर इतना कटु था कि मैं कुछ कह ही नहीं पाया ।,devanagari,negative
+मैं रोज़ाना नए शब्द सीखता हूं।,neutral,मैं रोज़ाना नए शब्द सीखता हूं ।,devanagari,neutral
+यह रिपोर्ट औसत दर्जे की है।,neutral,यह रिपोर्ट औसत दर्जे की है ।,devanagari,neutral
+विषय पर कोई विशेष विचार नहीं है,neutral,विषय पर कोई विशेष विचार नहीं है,devanagari,neutral
+इस विषय में कोई उत्सुकता नहीं है।,neutral,इस विषय में कोई उत्सुकता नहीं है ।,devanagari,neutral
+वह पुस्तक ज्ञानवर्धक थी।,positive,वह पुस्तक ज्ञानवर्धक थी ।,devanagari,positive
+तुम्हारी मदद से काम जल्दी हो गया।,positive,तुम्हारी मदद से काम जल्दी हो गया ।,devanagari,positive
+मुझे इसमें कुछ कहने की आवश्यकता नहीं।,neutral,मुझे इसमें कुछ कहने की आवश्यकता नहीं ।,devanagari,neutral
+वह प्रस्तुति बेहद शानदार रही।,positive,वह प्रस्तुति बेहद शानदार रही ।,devanagari,positive
+मुझे वहाँ का खाना बिल्कुल पसंद नहीं आया।,negative,मुझे वहाँ का खाना बिल्कुल पसंद नहीं आया ।,devanagari,negative
+मुझे इसमें कुछ अनोखा नहीं दिखा।,neutral,मुझे इसमें कुछ अनोखा नहीं दिखा ।,devanagari,neutral
+आपकी तारीफ से खुशी मिली।,positive,आपकी तारीफ से खुशी मिली ।,devanagari,positive
+यह निर्णय अनुचित लगा,negative,यह निर्णय अनुचित लगा,devanagari,negative
+यह प्रस्ताव मुझे अस्वीकार्य है।,negative,यह प्रस्ताव मुझे अस्वीकार्य है ।,devanagari,negative
+मुझे इसमें कुछ खास नहीं दिखा।,neutral,मुझे इसमें कुछ खास नहीं दिखा ।,devanagari,neutral
+आपकी प्रशंसा से मुझे ऊर्जा मिली।,positive,आपकी प्रशंसा से मुझे ऊर्जा मिली ।,devanagari,positive
+मुझे इसमें कोई बदलाव नहीं चाहिए,neutral,मुझे इसमें कोई बदलाव नहीं चाहिए,devanagari,neutral
+वह सेवा समय पर और उत्तम रही।,positive,वह सेवा समय पर और उत्तम रही ।,devanagari,negative
+यह फिल्म देखने लायक है,positive,यह फिल्म देखने लायक है,devanagari,positive
+मुझे इसमें कुछ खास दिलचस्पी नहीं थी।,neutral,मुझे इसमें कुछ खास दिलचस्पी नहीं थी ।,devanagari,neutral
+मैं इस विषय में कोई हस्तक्षेप नहीं करूंगा।,neutral,मैं इस विषय में कोई हस्तक्षेप नहीं करूंगा ।,devanagari,neutral
+मुझे इसमें कुछ भी विशेष नजर नहीं आया।,neutral,मुझे इसमें कुछ भी विशेष नजर नहीं आया ।,devanagari,neutral
+इस मामले में मेरी सोच अभी अधूरी है।,neutral,इस मामले में मेरी सोच अभी अधूरी है ।,devanagari,neutral
+आपकी सोच सदा प्रेरणा देती है।,positive,आपकी सोच सदा प्रेरणा देती है ।,devanagari,positive
+इस मामले में कोई निष्कर्ष पर पहुँचना कठिन है।,neutral,इस मामले में कोई निष्कर्ष पर पहुँचना कठिन है ।,devanagari,neutral
+इस सेवा से मैं बहुत खुश हूं,positive,इस सेवा से मैं बहुत खुश हूं,devanagari,negative
+मुझे इसमें कोई अनुभव नहीं हुआ।,neutral,मुझे इसमें कोई अनुभव नहीं हुआ ।,devanagari,neutral
+फिल्म के दृश्य अद्भुत थे,positive,फिल्म के दृश्य अद्भुत थे,devanagari,positive
+सेवा का अनुभव सामान्य रहा,neutral,सेवा का अनुभव सामान्य रहा,devanagari,neutral
+यह बारिश ने सब कुछ बर्बाद कर दिया।,negative,यह बारिश ने सब कुछ बर्बाद कर दिया ।,devanagari,negative
+आपकी मुस्कान सदा प्रेरणा देती है।,positive,आपकी मुस्कान सदा प्रेरणा देती है ।,devanagari,positive
+आपकी मुस्कान दिल खुश कर देती है।,positive,आपकी मुस्कान दिल खुश कर देती है ।,devanagari,positive
+उसके शब्दों में कड़वाहट साफ झलकती थी।,negative,उसके शब्दों में कड़वाहट साफ झलकती थी ।,devanagari,positive
+यह निर्णय पूरी तरह नाकाम रहा।,negative,यह निर्णय पूरी तरह नाकाम रहा ।,devanagari,negative
+मुझे वहाँ का खाना अच्छा नहीं लगा।,negative,मुझे वहाँ का खाना अच्छा नहीं लगा ।,devanagari,negative
+आज मेरे दोस्त ने मुझे एक अच्छा सरप्राइज दिया।,positive,आज मेरे दोस्त ने मुझे एक अच्छा सरप्राइज दिया ।,devanagari,positive
+उसकी बातें दुखद थीं।,negative,उसकी बातें दुखद थीं ।,devanagari,negative
+आपकी सफलता मुझे प्रसन्न करती है।,positive,आपकी सफलता मुझे प्रसन्न करती है ।,devanagari,positive
+मुझे इसमें कोई विशेष अनुभव नहीं हुआ।,neutral,मुझे इसमें कोई विशेष अनुभव नहीं हुआ ।,devanagari,neutral
+मुझे वहाँ की अव्यवस्था से दुख हुआ।,negative,मुझे वहाँ की अव्यवस्था से दुख हुआ ।,devanagari,negative
+आपकी तारीफ से मन खुश हो गया।,positive,आपकी तारीफ से मन खुश हो गया ।,devanagari,positive
+इस मुद्दे पर सोच-विचार अभी भी जारी है।,neutral,इस मुद्दे पर सोच-विचार अभी भी जारी है ।,devanagari,neutral
+मुझे यह स्थिति बहुत तटस्थ लगी।,neutral,मुझे यह स्थिति बहुत तटस्थ लगी ।,devanagari,negative
+इस उपलब्धि पर मुझे गर्व महसूस हो रहा है।,positive,इस उपलब्धि पर मुझे गर्व महसूस हो रहा है ।,devanagari,neutral
+मुझे यह सब सामान्य अनुभव लगा।,neutral,मुझे यह सब सामान्य अनुभव लगा ।,devanagari,neutral
+आज का खाना बेहद बेस्वाद था।,negative,आज का खाना बेहद बेस्वाद था ।,devanagari,negative
+यह पल मेरे जीवन का सबसे खुशी का पल है।,positive,यह पल मेरे जीवन का सबसे खुशी का पल है ।,devanagari,positive
+यह होटल का स्टाफ बहुत अशिष्ट और अनुपयोगी था।,negative,यह होटल का स्टाफ बहुत अशिष्ट और अनुपयोगी था ।,devanagari,negative
+वह यात्रा आनंदमयी रही।,positive,वह यात्रा आनंदमयी रही ।,devanagari,positive
+यह डिज़ाइन देखने में ठीक लगता है।,neutral,यह डिज़ाइन देखने में ठीक लगता है ।,devanagari,neutral
+यह फिल्म अत्यंत घटिया थी और समय की बर्बादी।,negative,यह फिल्म अत्यंत घटिया थी और समय की बर्बादी ।,devanagari,negative
+तुम्हारा आत्मविश्वास अनमोल है।,positive,तुम्हारा आत्मविश्वास अनमोल है ।,devanagari,positive
+उसके तिरस्कार ने मेरा आत्मबल तोड़ दिया।,negative,उसके तिरस्कार ने मेरा आत्मबल तोड़ दिया ।,devanagari,negative
+तुम्हारी मदद के बिना यह कार्य संभव नहीं था।,positive,तुम्हारी मदद के बिना यह कार्य संभव नहीं था ।,devanagari,positive
+यह अवसर विशेष रहा।,positive,यह अवसर विशेष रहा ।,devanagari,neutral
+वह किताब प्रेरक और रोचक थी।,positive,वह किताब प्रेरक और रोचक थी ।,devanagari,positive
+खाना औसत दर्जे का था,neutral,खाना औसत दर्जे का था,devanagari,neutral
+आपकी मदद ने मेरे जीवन को आसान बना दिया।,positive,आपकी मदद ने मेरे जीवन को आसान बना दिया ।,devanagari,positive
+यह योजना लाभकारी रही।,positive,यह योजना लाभकारी रही ।,devanagari,negative
+मुझे यह योजना बिल्कुल पसंद नहीं आई।,negative,मुझे यह योजना बिल्कुल पसंद नहीं आई ।,devanagari,negative
+ट्रेन देर से आने की वजह से बहुत परेशानी हुई।,negative,ट्रेन देर से आने की वजह से बहुत परेशानी हुई ।,devanagari,negative
+आपकी बातों से मन हल्का हो गया।,positive,आपकी बातों से मन हल्का हो गया ।,devanagari,positive
+मुझे यह काम बहुत कठिन और थकाऊ लगता है।,negative,मुझे यह काम बहुत कठिन और थकाऊ लगता है ।,devanagari,negative
+यह खबर काफी दुखद रही।,negative,यह खबर काफी दुखद रही ।,devanagari,negative
+वह प्रतिक्रिया इतनी अप्रत्याशित थी कि मैं समझ नहीं पाया।,negative,वह प्रतिक्रिया इतनी अप्रत्याशित थी कि मैं समझ नहीं पाया ।,devanagari,neutral
+यह फिल्म इतनी शानदार थी कि मैंने इसे दो बार देखा।,positive,यह फिल्म इतनी शानदार थी कि मैंने इसे दो बार देखा ।,devanagari,positive
+मुझे तुम्हारा साथ अच्छा लगता है।,positive,मुझे तुम्हारा साथ अच्छा लगता है ।,devanagari,positive
+मुझे इस पर कोई राय नहीं बनानी।,neutral,मुझे इस पर कोई राय नहीं बनानी ।,devanagari,neutral
+यह किताब अद्भुत है।,positive,यह किताब अद्भुत है ।,devanagari,positive
+आपकी मदद सदा महत्वपूर्ण रहती है।,positive,आपकी मदद सदा महत्वपूर्ण रहती है ।,devanagari,positive
+मैं इस पर कोई टिप्पणी नहीं करना चाहता।,neutral,मैं इस पर कोई टिप्पणी नहीं करना चाहता ।,devanagari,neutral
+तुम्हारी हंसी दिल जीत लेती है।,positive,तुम्हारी हंसी दिल जीत लेती है ।,devanagari,positive
+यह खुशी का मौका है।,positive,यह खुशी का मौका है ।,devanagari,positive
+उसकी आलोचना से मेरे आत्मबल को गहरी चोट लगी।,negative,उसकी आलोचना से मेरे आत्मबल को गहरी चोट लगी ।,devanagari,negative
+इस पर मेरा रुख अब तक पूरी तरह तय नहीं हो पाया है।,neutral,इस पर मेरा रुख अब तक पूरी तरह तय नहीं हो पाया है ।,devanagari,negative
+यह फिल्म इतनी खराब थी कि मैं अंत तक नहीं देख सका।,negative,यह फिल्म इतनी खराब थी कि मैं अंत तक नहीं देख सका ।,devanagari,negative

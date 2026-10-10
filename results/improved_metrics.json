@@ -1,0 +1,33 @@
+{
+  "selected": {
+    "model": "logreg",
+    "C": 3,
+    "dev_macro_f1": 0.9598597806606488
+  },
+  "test": {
+    "naive_bayes": 0.8947284863563603,
+    "baseline_logreg": 0.9445026519787841,
+    "baseline_logreg_ci95": [
+      0.920700519645839,
+      0.965898143735409
+    ],
+    "improved": 0.9441066596954447,
+    "improved_ci95": [
+      0.9202958029448639,
+      0.965099867250677
+    ]
+  },
+  "cv5_macro_f1": {
+    "baseline_logreg": [
+      0.958262973162596,
+      0.005775612101953141
+    ],
+    "improved": [
+      0.9626819362006256,
+      0.007615730553595503
+    ]
+  },
+  "baseline_errors": 21,
+  "baseline_errors_fixed_by_improved": 2,
+  "new_errors_introduced": 2
+}
